@@ -1,0 +1,2 @@
+ini adalah teks dari branch baru dari cabang utama
+edit1 = buat teks baru
