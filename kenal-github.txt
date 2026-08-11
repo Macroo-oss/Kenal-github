@@ -1,2 +1,2 @@
-untuk mengnal github dengan memprakterkannya
+untuk mengenal github dengan memprakterkannya
 edit1 = belajar merubah file dengan 'edit this file'
